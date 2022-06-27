@@ -1,6 +1,6 @@
 # User Evaluation of Interactive COVID-19 Dashboards
 
-This are dashboards elaborated for the Master Thesis during the participation in the _Copernicus Master in Digital Earth_ Erasmus Mundus Joint Master Degree.
+These are dashboards elaborated for the Master Thesis during the participation in the _Copernicus Master in Digital Earth_ Erasmus Mundus Joint Master Degree.
 
 The following repository includes:
 * Source code of the backend
